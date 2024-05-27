@@ -28,6 +28,7 @@ class EcoflowModel(Enum):
     POWERSTREAM = 51, 
     GLACIER = 46,
     WAVE_2 = 45, # productType = 45
+    Smart_Plug = 47,
     DIAGNOSTIC = 99
 
     @classmethod
